@@ -14,6 +14,7 @@
 
 6. git commit 提交，触发代码规范校验
 
+### 规范详情
 [传送门](https://saiyes.cn/post/2023/03/13/lpp7fh/)
 
 ### eslint
@@ -51,6 +52,6 @@
 
 
 *** 与 VSC 编辑器集成
-[eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-[prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-[stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+* [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
