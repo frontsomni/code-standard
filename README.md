@@ -51,7 +51,7 @@
 [GiHub](https://github.com/okonet/lint-staged)
 
 
-*** 与 VSC 编辑器集成
+### 与 VSC 编辑器集成
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
