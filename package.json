@@ -1,7 +1,7 @@
 {
   "name": "code-standard",
   "version": "1.0.0",
-  "description": "",
+  "description": "前端代码规范流程自动化",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./src",
