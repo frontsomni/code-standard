@@ -1,11 +1,24 @@
-## 代码
+# 代码规范自动化流程
 
 ### 使用说明
+
+1. git clone
+
+2. npm install
+
+3. 执行 npx husky install
+
+4. 开始编写代码
+
+5. git add 添加
+
+6. git commit 提交，触发代码规范校验
+
 [传送门]()
 
 ### eslint
 
-[Website](https://eslint.org/)
+[Website](https://eslint.org/docs/latest/)
 
 [GitHub](https://github.com/eslint/eslint)
 
